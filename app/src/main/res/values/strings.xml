@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="title_activity_detail">Book Details</string>
+
+    <string name="loading">Loading…</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="page_count">Pages</string>
+    <string name="publisher">Publisher</string>
+    <string name="language">Language</string>
+    <string name="search">Search</string>
+    <string name="view_all_read">View all read</string>
+    <string name="title_no_books">No books</string>
+    <string name="description_no_books">There are no books to display.\nUse the top bar to search for books by title,\nor see those marked as read.</string>
+    <string name="title_no_connection">No connection</string>
+    <string name="description_no_connection">Check your internet connection\nand try again.</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="remove_from_read_list">Remove from read list</string>
+    <string name="pages">pages</string>
+    <string name="ratings">assessments</string>
+    <string name="try_again_no_connection">TRY AGAIN</string>
+    <string name="undo">UNDO</string>
+    <string name="save_book_message">Book saved successfully.</string>
+    <string name="remove_book_message">Book successfully removed.</string>
+    <string name="error_message">Error while processing the request. Try again later.</string>
+    <string name="my">My</string>
+    <string name="library">Library</string>
+    <string name="books_search">Book Search</string>
+</resources>

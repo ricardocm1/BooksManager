@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Minha Biblioteca</string>
+    <string name="title_activity_detail">Detalhes do Livro</string>
+
+    <string name="loading">Carregando…</string>
+    <string name="title">Título</string>
+    <string name="author">Autor</string>
+    <string name="page_count">Páginas</string>
+    <string name="publisher">Editora</string>
+    <string name="language">Idioma</string>
+    <string name="search">Pesquisar</string>
+    <string name="view_all_read">Ver lidos</string>
+    <string name="title_no_books">Nenhum livro</string>
+    <string name="description_no_books">Não há livros a serem exibidos.\nUtilize a barra superior para procurar livros pelo título,\nou ver aqueles marcados como lidos.</string>
+    <string name="title_no_connection">Sem conexão</string>
+    <string name="description_no_connection">Verifique sua conexão com a internet\ne tente novamente.</string>
+    <string name="mark_as_read">Marcar como lido</string>
+    <string name="remove_from_read_list">Remover dos lidos</string>
+    <string name="pages">páginas</string>
+    <string name="ratings">avaliações</string>
+    <string name="try_again_no_connection">TENTAR NOVAMENTE</string>
+    <string name="undo">DESFAZER</string>
+    <string name="save_book_message">Livro salvo com sucesso.</string>
+    <string name="remove_book_message">Livro removido com sucesso.</string>
+    <string name="error_message">Erro ao processar a solicitação. Tente novamente mais tarde.</string>
+    <string name="my">Minha</string>
+    <string name="library">Biblioteca</string>
+    <string name="books_search">Pesquisa de Livros</string>
+</resources>

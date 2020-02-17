@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tubb.smrv.SwipeHorizontalMenuLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sml="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/smBook"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    sml:sml_auto_open_percent="0.2"
+    sml:sml_scroller_duration="250"
+    sml:sml_scroller_interpolator="@android:anim/linear_interpolator">
+
+    <include android:id="@+id/smContentView" layout="@layout/list_item_book" />
+    <include android:id="@+id/smMenuViewLeft" layout="@layout/view_book_options" />
+    <include android:id="@+id/smMenuViewRight" layout="@layout/view_book_options" />
+
+</com.tubb.smrv.SwipeHorizontalMenuLayout>
